@@ -1,8 +1,8 @@
 class AwsVpn < Formula
   desc "Easy CLI to create and manage vpn connection to your AWS VPC"
   homepage "https://github.com/mazerte/aws-vpn"
-  url "https://github.com/mazerte/aws-vpn/releases/download/v0.1.5/aws-vpn.tar.gz"
-  sha256 "6452ccfe913bbd459a55eb035c6c3f3241499074112b7ef0e83db1acd031c1c0"
+  url "https://github.com/mazerte/aws-vpn/releases/download/v0.1.8/aws-vpn.tar.gz"
+  sha256 "db2942fbafaa255fee6c2468b3e815252a58e76a20b3e60bab4e1b86a931e816"
   license "MIT"
 
   depends_on "awscli"
