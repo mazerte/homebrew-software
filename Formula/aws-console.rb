@@ -1,8 +1,8 @@
 class AwsConsole < Formula
   desc "Open the AWS console with your CLI credentials where your needed to be!"
   homepage "https://github.com/mazerte/aws-console"
-  url "https://github.com/mazerte/aws-console/releases/download/v0.0.2/aws-console.tar.gz"
-  sha256 "46ae80f216b926f7710e1a2347d9d79bb758779d3211b3ef6178b6cf406ce0e8"
+  url "https://github.com/mazerte/aws-console/releases/download/v0.1.0/aws-console.tar.gz"
+  sha256 "eee3b4a4aa6e8a5ab70ba601fb2a7b2e7813597064bcdf530d68482e7a904fb2"
   license "MIT"
 
   depends_on "python@3.9"
